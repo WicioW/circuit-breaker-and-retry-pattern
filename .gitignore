@@ -29,5 +29,11 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### VS Code ###
-.vscode/
+
+.mvn/wrapper/maven-wrapper.jar
+
+.mvn/wrapper/maven-wrapper.properties
+
+mvnw
+
+mvnw.cmd
